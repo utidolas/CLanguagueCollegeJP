@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663907594 source:f:\meus documentos\imagens\profissional\college\c language\estudos mais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
